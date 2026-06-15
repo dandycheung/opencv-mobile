@@ -82,7 +82,7 @@ https://github.com/nihui/opencv-mobile/releases/latest
 
 <tr>
 <td>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/HMOS_Logo_Icon.svg/240px-HMOS_Logo_Icon.svg.png" width="64" height="auto">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/37/HMOS_Logo_Icon.svg" width="64" height="auto">
 </td>
 <td>HarmonyOS</td>
 <td>
